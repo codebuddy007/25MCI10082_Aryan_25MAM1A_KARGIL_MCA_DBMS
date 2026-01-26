@@ -88,8 +88,7 @@ VALUES
 ```sql
 select * from customer_orders;
 ```
-
-<img width="1125" height="387" alt="image" src="https://github.com/user-attachments/assets/bb8f886d-073e-4957-a41a-50968468de3e" />
+<img width="902" height="222" alt="image" src="https://github.com/user-attachments/assets/61fd600c-25ab-49fe-9b96-52ad4baa5da9" />
 
 ---
 
@@ -100,7 +99,7 @@ SELECT * FROM customer_orders
 WHERE price > 30000;
 
 ```
-<img width="1020" height="244" alt="image" src="https://github.com/user-attachments/assets/a4da601f-3065-4b24-9193-5375702fd542" />
+<img width="989" height="129" alt="image" src="https://github.com/user-attachments/assets/3d0b446f-40d7-4c95-accb-0787f5f4971a" />
 
 ---
 
@@ -112,7 +111,7 @@ SELECT * FROM customer_orders
 ORDER BY price DESC;
 
 ```
-<img width="1013" height="242" alt="image" src="https://github.com/user-attachments/assets/1645b309-a337-42c5-bd95-ea0b2dbf800f" />
+<img width="1068" height="252" alt="image" src="https://github.com/user-attachments/assets/5e189a34-c5f1-49de-9d3b-c7e53fd12030" />
 
 
 ## **Step 6: Grouping Data for Aggregation**
@@ -123,7 +122,7 @@ FROM customer_orders
 GROUP BY product;
 
 ```
-<img width="530" height="320" alt="image" src="https://github.com/user-attachments/assets/931b4c80-7d5d-4a05-8b8a-a21df6b2d17f" />
+<img width="670" height="280" alt="image" src="https://github.com/user-attachments/assets/70ac159a-19d7-400b-95be-eeb5d636ced5" />
 
 ---
 
@@ -136,7 +135,7 @@ GROUP BY product
 HAVING SUM(price * quantity) > 30000;
 
 ```
-<img width="656" height="211" alt="image" src="https://github.com/user-attachments/assets/8be53c62-3230-4ba1-8219-7177bc58524e" />
+<img width="670" height="280" alt="image" src="https://github.com/user-attachments/assets/5c481179-2b5b-453d-8a77-af9ba616bd13" />
 
 ---
 
