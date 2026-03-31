@@ -191,11 +191,11 @@ CROSS JOIN courses c;
 ---
 
 ## 📘 **Learning Outcomes**  
-•	Understand the concept of relational databases and how data is distributed across multiple tables. 
-•	Apply different types of SQL joins such as INNER JOIN, LEFT JOIN, RIGHT JOIN, SELF JOIN, and CROSS JOIN. 
-•	Retrieve meaningful information by combining data from multiple related tables like Students, Courses, Enrollments, and Departments. 
-•	Identify the appropriate join type based on the problem requirement and data relationship. 
-•	Analyze query results to understand how NULL values and unmatched records are handled in different joins.
+- Understand the concept of relational databases and how data is distributed across multiple tables. 
+-	Apply different types of SQL joins such as INNER JOIN, LEFT JOIN, RIGHT JOIN, SELF JOIN, and CROSS JOIN. 
+-	Retrieve meaningful information by combining data from multiple related tables like Students, Courses, Enrollments, and Departments. 
+-	Identify the appropriate join type based on the problem requirement and data relationship. 
+-	Analyze query results to understand how NULL values and unmatched records are handled in different joins.
 
 
 ---
